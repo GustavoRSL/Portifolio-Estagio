@@ -1,6 +1,6 @@
 /* 
 
-Tipos de dados
+Tipos de dados - Primitivos
 
 - Number
 - String
