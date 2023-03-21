@@ -1,4 +1,4 @@
-# Esstudos relacionado a Docker
+# Estudos relacionados ao Docker
 
 ## Comandos
 
