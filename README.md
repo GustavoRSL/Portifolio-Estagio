@@ -7,4 +7,4 @@ Guia de estudos focados para atender requisitos de estágios.
 * [Docker](https://github.com/GustavoRSL/Portifolio-Estagio/tree/master/Docker)
 
 ## Projetos Desenvolvidos em Bootcamps
-* [Angular - Clone Twitter](https://github.com/GustavoRSL/Bootcamp-Angular-Developer-Powered-by-iFood)
+* [Angular - Bootcamp Angular Developer Powered by iFood](https://github.com/GustavoRSL/Bootcamp-Angular-Developer-Powered-by-iFood)
